@@ -6,4 +6,4 @@ Answer: Fast forward is used when you want to merge a branch that is ahead of yo
 • Why should you have different branches?
 Answers: Real time use of creating branches is it helps you versioning your code base. And changes can be kept specific to the branches or specific to a version.
 • In a project how many remote Git repositories do you usually have?
-Answers : One 
+Answers : one
